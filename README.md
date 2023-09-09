@@ -7,4 +7,4 @@ and
 https://www.zardosfx.com/shellswap
 
 
-Address: https://etherscan.io/address/0xDeBD0Bc00932E8b5bEfF65053989B0687c894b5F
+Zardos token address: https://etherscan.io/address/0xDeBD0Bc00932E8b5bEfF65053989B0687c894b5F
