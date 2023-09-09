@@ -1,5 +1,5 @@
 # Zardos
-Zardos (ZARS) is a crypto token, following the ERC20 standard, with an initial supply of 1000,000 token, capped at 25 Mio token in total.
+Zardos (ZARS) is a crypto token, following the ERC20 standard, with an initial supply of 1250,000 token, capped at 25 Mio token in total.
 
 The initial token is traded on:
 https://www.zardosfx.com/zardex
