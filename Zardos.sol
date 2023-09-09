@@ -369,14 +369,12 @@ abstract contract ERC20 is Context, IERC20, IERC20Metadata, IERC20Errors {
     }
 }
 
-// begin of Zardos (ZARS) definition
+// begin of Zardos (ZARS) crypto token definition
 // SPDX-License-Identifier: GPL-3.0
-
 pragma solidity ^0.8.20;
 
 // contract to create ERC20 token Zardos (ZARS)
-// token has 18 decimals
-// initial supply 1 Mio. token, maximum supply 25 Mio. token
+// token has 18 decimals and an initial supply of 1.25 Mio. token, maximum supply 25 Mio. token
 contract Zardos is ERC20{
     constructor(uint256 initialSupply) ERC20("Zardos", "ZARS") {
        _mint(msg.sender,initialSupply);
