@@ -377,6 +377,6 @@ pragma solidity ^0.8.20;
 // token has 18 decimals and an initial supply of 1.25 Mio. token, maximum supply 25 Mio. token
 contract Zardos is ERC20{
     constructor(uint256 initialSupply) ERC20("Zardos", "ZARS") {
-       _mint(msg.sender,initialSupply);
+       _mint(msg.sender,1_250_000, 10**18);
     }
 } 
